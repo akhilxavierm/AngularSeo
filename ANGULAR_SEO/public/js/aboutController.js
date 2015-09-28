@@ -1,6 +1,4 @@
 myModule.controller('aboutController',function($scope,dynamicMetaFactory){
-    
-    $scope.name="about Name";
-    dynamicMetaFactory.appId=20;
-    dynamicMetaFactory.appArgument="what the fuck";
+   	dynamicMetaFactory.appId=20;
+    dynamicMetaFactory.appArgument="this is my custome headline for about page";
 });
