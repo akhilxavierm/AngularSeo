@@ -1,0 +1,12 @@
+{
+  "name": "AngularSEO",
+  "version": "0.0.0",
+
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "ejs": "^2.3.4",
+    "express": "~4.9.0",
+    "prerender-node": "^2.1.0",
+    "serve-favicon": "~2.1.3"
+  }
+}
